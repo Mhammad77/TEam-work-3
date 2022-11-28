@@ -331,4 +331,55 @@ color: #000000;
     color: #666666;
 
 }
+.NHconatiner{
+    width: 100%;
+}
+.NHcentr{
+    padding-top: 90px;
+    width: 80%;
+    margin: auto;
+    
+}
+#NHfea{
+    font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #999999;
+}
+.NHPHOTO{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+   
+}
+#NHdesign{
+    padding-top: 25px;
+    font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #999999;
+}
+.NHpost h1{
+    padding-top: 18px;
+    font-weight: 400;
+font-size: 19px;
+line-height: 24px;
+text-transform: uppercase;
+color: #000000;
+}
+#NHclem{
+    padding-top: 15px;
+    font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: #000000;
+}
 
