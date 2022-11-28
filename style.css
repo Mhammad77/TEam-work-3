@@ -184,3 +184,151 @@ color: #000000;
     text-transform: uppercase;
     color: #999999;   
 }
+
+/* shahrom */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.shahrom-conteiner{
+    background: #141414;
+    height: 100vh;
+}
+
+.center-shahrom{
+    width: 80%;
+    margin: auto;
+}
+.shleft-right{
+    display: flex;
+    color: #FFFFFF;
+    align-items: center;
+    padding-top: 100px;
+}
+.shleft{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #666666;
+
+}
+.shahrom-flex{
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    margin-right: 180px;
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;  
+    color: #666666;     
+}
+.shahrom{
+    background: #4D4D4D;
+    margin-top: 70px;
+}
+.shah-left-right{
+    display: flex;
+    color: #FFFFFF;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.sendshahrom{
+    background: #000000;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    padding: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+.shah-left p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;   
+    color: #FFFFFF;
+}
+.sh{
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #666666;
+}
+.shah-right1 input{
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    padding: 20px 60px;
+}
+.shsh{
+    font-size: 10px;
+    line-height: 12px;  
+    letter-spacing: 1px;
+    text-transform: uppercase;  
+    color: #666666;
+}
+.shah-left h2{
+    font-weight: 400;
+    color: #FFFFFF; 
+
+}
+.shah-right{
+    font-weight: 400;
+    color: #FFFFFF; 
+}
+.Animationsh{
+    margin-top: 100px;
+}
+
+.sh-icons{
+    display: flex;
+    color: #FFFFFF;
+    margin-top: 120px;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.sh-icon ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 60px;
+    color: #FFFFFF;
+    padding: 10px 0px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border: none;
+   
+}
+.sh-ul{
+    display: flex;
+    
+}
+.sh-icon ul li{
+    list-style: none;
+}
+.sh-icon ul li a:hover{
+    background-color: #666666;
+    border-bottom: 3px solid #CCCCCC;
+}
+.sh-icon h1{
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #666666;
+
+}
+
